@@ -6,7 +6,7 @@ My **code + written notes**, day by day, for **Weeks 1–12** of my 74-week Comp
 
 📊 **[Live progress dashboard](https://study-agent.jayanthapalla.workers.dev)**  ·  ⚙️ **[The study agent](https://github.com/astroboy1183/study-agent)**
 
-🧭 **Tracks:** **Computer Vision** · [Data Engineering](https://github.com/astroboy1183/de) · [Data Science & ML](https://github.com/astroboy1183/ml) · [Deep Learning & AI](https://github.com/astroboy1183/ai) · [Linux & Systems](https://github.com/astroboy1183/linux)
+🧭 **Tracks:** **Computer Vision** · [Data Engineering](https://github.com/astroboy1183/data-engineering) · [Data Science & ML](https://github.com/astroboy1183/data-science-ml) · [Deep Learning & AI](https://github.com/astroboy1183/deep-learning-ai) · [Linux & Systems](https://github.com/astroboy1183/linux-systems)
 
 ---
 
